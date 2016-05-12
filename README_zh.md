@@ -16,6 +16,11 @@ Jacman 是为 [Hexo](http://hexo.io) 设计的一款清新且具有响应式的�
 ##安装教程
 ###安装
 ```
+$ git clone https://github.com/wuchong/jacman.git themes/jacman
+```
+
+### 带搜索功能安装
+```
 $ git clone https://github.com/ansonchen/jacman.git themes/jacman
 ```
 

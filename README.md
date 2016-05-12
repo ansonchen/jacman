@@ -15,6 +15,11 @@ Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with m
 ###Install
 
 ```
+$ git clone https://github.com/wuchong/jacman.git themes/jacman
+```
+
+### include search function
+```
 $ git clone https://github.com/ansonchen/jacman.git themes/jacman
 ```
 **Jacman requires Hexo 2.7 and above.** 
