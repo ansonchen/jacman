@@ -10,6 +10,7 @@ Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with m
 
 [如何使用 Jacman 主题](http://jacman.wuchong.me/2014/11/20/how-to-use-jacman/)
 
+[add search](http://ansonchen.github.io/2016/05/10/hexosearch/)
 ##Installation
 ###Install
 ```
