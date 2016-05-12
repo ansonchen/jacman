@@ -13,8 +13,9 @@ Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with m
 [add search](http://ansonchen.github.io/2016/05/10/hexosearch/)
 ##Installation
 ###Install
+
 ```
-$ git clone https://github.com/wuchong/jacman.git themes/jacman
+$ git clone https://github.com/ansonchen/jacman.git themes/jacman
 ```
 **Jacman requires Hexo 2.7 and above.** 
 ###Enable

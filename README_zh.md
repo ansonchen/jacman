@@ -16,8 +16,10 @@ Jacman 是为 [Hexo](http://hexo.io) 设计的一款清新且具有响应式的�
 ##安装教程
 ###安装
 ```
-$ git clone https://github.com/wuchong/jacman.git themes/jacman
+$ git clone https://github.com/ansonchen/jacman.git themes/jacman
 ```
+
+
 **Jacman 需要 Hexo 2.7 及以上版本** 
 ###启用
 修改博客根目录下的配置文件 `_config.yml`，把`theme`的值修改为 `jacman`.
